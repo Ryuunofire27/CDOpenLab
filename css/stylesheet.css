@@ -1,0 +1,189 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: "lato";
+	font-size: 14px;	
+}
+
+a{
+	text-decoration: none;
+	background: transparent;
+}
+
+.pre-nav{
+	height: 45px;
+	background-color: black;
+}
+
+.container{
+	width: 1170px;
+	height: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.pre-nav-left{
+	color: white;
+	padding-top: 12px;
+	width: 300px;
+	float: left;
+}
+
+.pre-nav-left a{
+	color: white;
+}
+
+.pre-nav-right{
+	float: left;
+	width: 870px;
+	height: 45px;
+}
+
+.informacion{
+	float: left;
+	color: white;
+	width: 300px;
+	padding-top: 12px;
+	margin-left: 350px;
+	text-align: right;
+	position: relative;
+}
+
+.pre-nav-right div span{
+	color: cyan;
+}
+
+.imagenes-header{
+	color: white;
+	float: right;
+	width: 100px;
+	padding-top: 10px;
+	padding-left: 50px;
+	text-align: justify;
+}
+
+.imagenes-header a img{
+	height: 20px;
+	padding-left: 5px;
+	vertical-align: middle;
+}
+
+.nav{
+	padding-top: 15px;
+	height: 85px;
+}
+
+.nav-left{
+	width: 292.5px;
+	float: left;
+}
+
+.nav-right{
+	list-style: none;
+	float: right;
+}
+
+.nav-right li{
+	display: block;
+	float: left;
+	margin-right:  2em;
+	font-size: 16px;
+	margin-top: 0.5em;
+	padding-top: 15px;
+}
+
+#subrayado{
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+#hosting{
+	color: #00b7b7;
+}
+
+.text_title{
+	color: #00b7b7;
+	text-align: center;
+	padding-top: 100px;
+	padding-left: 15px;
+	padding-bottom: 40px;
+}
+
+.text_title h1{
+	font-size: 34px;
+}
+
+.buscador{
+	margin-left: 8%;
+	width: 85%;
+}
+
+.buscador_top{
+	text-align: center;
+	padding-top: 50px;
+	padding-left: 15px;
+}
+
+.buscador_top h2{
+	font-size: 28px;
+	font-weight: normal;
+}
+
+.form_bottom{
+	width: 100%;
+}
+
+.ingresar{
+	font-size: 18px;
+	font-weight: bold;
+	padding-bottom: 30px;
+	padding-top: 15px;
+}
+
+.input_buscador{
+	width: 100%;
+	height: 30px;
+	padding-left: 30px;
+	padding-bottom: 10px;
+}
+
+#www{
+	padding: 6px 12px;
+	border: 1px solid #c8c8c8;
+	border-radius: 4px;
+	border-right: 0;
+	background-color: #ece9e9;
+	width: 1%;
+	height: 29px;
+}
+
+.url{
+	width: 70%;
+	margin-left: -5px;
+	border: 1px solid #c8c8c8;
+	height: 29px;
+}
+
+.boton{
+	background-color: #5cb85c;
+	border-color: #4cae4c;
+	color: white;
+	padding: 6px 12px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	width:  12%;
+	margin-left: 40px;
+}
+
+.label{
+	width: 100%;
+	font-size: 18px;
+	font-weight: bold;
+}
+.checkbox{
+	width: 25%;
+	float: left;
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
